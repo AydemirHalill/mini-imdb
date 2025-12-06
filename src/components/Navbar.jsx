@@ -28,7 +28,6 @@ export default function Navbar() {
         <i className="bi bi-code-slash text-warning"></i> Mini IMDB
       </Link>
 
-      {/* Hamburger toggle button */}
       <button
         className="navbar-toggler"
         type="button"
